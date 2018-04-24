@@ -15,7 +15,7 @@
 
 ## Channels
 * Shitposting, reaction images, etc. are not allowed.
-* __**Keyboard channels (channels prefaced by kb-) are to be kept on topic.**__ Other channels are less strict but please move if your conversation changes subject.
+* **Keyboard channels (channels prefaced by kb-) are to be kept on topic.** Other channels are less strict but please move if your conversation changes subject.
 * If there exist a channel that is more topical, please consider moving your conversation there (weebs & furries type `!nsfw` )
 
 ## Punishment:
@@ -125,6 +125,7 @@ headphones, fountain pens, etc.
 * Noxary - <https://discord.gg/N2aNvqN>
 * PrimeCaps - <https://discord.gg/6ZsVDsa>
 * SpaceCat Designs - <https://discord.gg/eBV4X5r>
+
 ### Other
 * AfroChat - <https://discord.gg/jkZazVU>
 * Keycao Confections - <https://discord.gg/rgvB5sd>
